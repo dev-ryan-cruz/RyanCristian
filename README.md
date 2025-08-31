@@ -46,7 +46,7 @@ No futuro, meu objetivo é me aprofundar em tecnologias de desenvolvimento web e
         <a href="https://dev-ryan-cruz.github.io/proton-controle-protocolos/proton.html" target="_blank">
           <img src="https://img.shields.io/badge/SITE-20A4F3?style=for-the-badge">
         </a>
-        <a href="https://github.com/dev-ryan-cruz/proton-controle-protocolos" target="_blank">
+        <a href="https://github.com/dev-ryxcruz/proton-controle-protocolos" target="_blank">
           <img src="https://img.shields.io/badge/Código_Fonte-000000?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
