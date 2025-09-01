@@ -1,17 +1,17 @@
 # Olá, eu sou o Ryan Cristian 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ryan-cristian-a0889-324b" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-cristian-a0889324b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/ryan.cadc" target="_blank">
+  <a href="https://www.instagram.com/ryan.cruz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 Sou um entusiasta de tecnologia e solucionador de problemas, combinando minha experiência em Suporte de TI com minha paixão pelo desenvolvimento de software para criar soluções práticas e eficientes.
 
-- 🔭 Atualmente trabalho como **Assistente de Sistemas**, prestando suporte e ajudando a manter os sistemas de TI.
+- 🔭 Atualmente trabalho como **Assistente de Sistemas**, prestando suporte técnico e ajudando a manter a infraestrutura de TI.
 - 🌱 Estou cursando **Análise e Desenvolvimento de Sistemas** na FATEC Franca, com previsão de formatura em 2027.
 - 💡 Tenho um interesse especial em desenvolvimento web e na criação de ferramentas para automação de processos.
 - 📫 Como entrar em contato: **ryancristianalvesdacruz@gmail.com**
@@ -34,16 +34,21 @@ No futuro, meu objetivo é me aprofundar em tecnologias de desenvolvimento web e
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="200" align="center">
+      <br>
+      <img src="https://github.com/dev-ryxcruz/proton-controle-protocolos/blob/main/proton-logo.png?raw=true" alt="Logo do Proton" width="150">
+      <br>
+    </td>
+    <td>
       <h3 align="left">Proton - Ferramenta de Controle de Protocolos</h3>
       <p align="left">
-        Aplicação web que desenvolvi para digitalizar e otimizar o processo de controle de protocolos no meu setor, substituindo planilhas manuais. A ferramenta possui dashboard, gráficos de produtividade e exportação para Excel.
+        Aplicação web que desenvolvi para digitalizar e otimizar o processo de controle de protocolos no setor que trabalhei, substituindo planilhas manuais. A ferramenta possui dashboard, gráficos de produtividade e exportação para Excel.
       </p>
       <p align="left">
         <b>Tecnologias:</b> HTML, CSS, JavaScript (Vanilla), Chart.js, ExcelJS
       </p>
       <p align="left">
-        <a href="https://dev-ryan-cruz.github.io/proton-controle-protocolos/proton.html" target="_blank">
+        <a href="https://dev-ryxcruz.github.io/proton-controle-protocolos/" target="_blank">
           <img src="https://img.shields.io/badge/SITE-20A4F3?style=for-the-badge">
         </a>
         <a href="https://github.com/dev-ryxcruz/proton-controle-protocolos" target="_blank">
